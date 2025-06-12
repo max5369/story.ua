@@ -1,0 +1,49 @@
+a{
+    text-decoration: none;
+    color: white;
+    background-color: black;
+    padding: 15px;
+    border-radius: 5px;
+    font-size: 150%;
+    padding-right:30px;
+    padding-left: 30px;
+}
+
+h1{
+    text-align: center;
+    position: relative;
+    top: 350px;
+}
+
+ul{
+    background-color: rgba(0, 0, 0, 0.644);
+    box-shadow: 10px 10px 5px 0 rgb(216, 158, 0);
+    position: relative;
+    margin-right: 1400px ;
+    left: 200px;
+    top: 100px;
+      padding-top: 20px;
+      padding-bottom:20px ;
+}
+
+li{
+    font-size: 30px;
+    color: white; 
+}
+
+img {
+    position: relative;
+    left: 1150px;
+    bottom: 450px;
+    width: 600px;
+    height: 550px;
+}
+
+a:hover{
+    transform: scale(1.09999);
+    transition: 1s;
+}
+
+.big{
+    font-size: 40px;
+}
